@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string></string>
+	<key>display_name</key>
+	<string>Microsoft RDC for Mac</string>
+	<key>installed_size</key>
+	<integer>23834</integer>
+	<key>installer_item_hash</key>
+	<string>4ebe551c9ee0e2da6b8f746be13c2df342c6f14cd3fbedbf2ab490f09b44616f</string>
+	<key>installer_item_location</key>
+	<string>RDC_2.1.1_ALL.dmg</string>
+	<key>installer_item_size</key>
+	<integer>9147</integer>
+	<key>minimum_os_version</key>
+	<string>10.4.0</string>
+	<key>name</key>
+	<string>RDC Installer</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>RDC_all_rdc.pkg</string>
+			<key>installed_size</key>
+			<integer>15752</integer>
+			<key>packageid</key>
+			<string>com.microsoft.rdc.all.rdc.pkg.2.1.1</string>
+			<key>version</key>
+			<string>2.1.1</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>RDC_all_dock.pkg</string>
+			<key>installed_size</key>
+			<integer>0</integer>
+			<key>packageid</key>
+			<string>com.microsoft.rdc.all.dock.pkg.2.1.1</string>
+			<key>version</key>
+			<string>2.1.1</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>mau_all_autoupdate.pkg</string>
+			<key>installed_size</key>
+			<integer>3334</integer>
+			<key>packageid</key>
+			<string>com.microsoft.mau.all.autoupdate.pkg.2.3.2</string>
+			<key>version</key>
+			<string>2.3.2</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>merp_all_errorreporting.pkg</string>
+			<key>installed_size</key>
+			<integer>4748</integer>
+			<key>packageid</key>
+			<string>com.microsoft.merp.all.errorreporting.pkg.2.2.6</string>
+			<key>version</key>
+			<string>2.2.6</string>
+		</dict>
+	</array>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>2.3.2</string>
+</dict>
+</plist>
+
