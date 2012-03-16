@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>staging</string>
+	</array>
+	<key>description</key>
+	<string>Microsoft Silverlight is needed for Datatel UI.</string>
+	<key>display_name</key>
+	<string>Microsoft® Silverlight™ Browser Plug-In</string>
+	<key>forced_install</key>
+	<true/>
+	<key>installed_size</key>
+	<integer>99420</integer>
+	<key>installer_item_hash</key>
+	<string>2bf9c53b92774728d1683274790cc4cc3009c3ad6620c340cccbe705cca36737</string>
+	<key>installer_item_location</key>
+	<string>Silverlight/Silverlight-5.0.61118.0.dmg</string>
+	<key>installer_item_size</key>
+	<integer>14564</integer>
+	<key>minimum_os_version</key>
+	<string>10.4.0</string>
+	<key>name</key>
+	<string>Silverlight</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>Silverlight.pkg</string>
+			<key>installed_size</key>
+			<integer>99420</integer>
+			<key>packageid</key>
+			<string>com.microsoft.SilverlightInstaller</string>
+			<key>version</key>
+			<string>5.0.61118.0</string>
+		</dict>
+	</array>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>5.0.61118.0</string>
+	<key>supported_architectures</key>
+	<array>
+		<string>i386</string>
+    	<string>x86_64</string>
+	</array>
+</dict>
+</plist>
