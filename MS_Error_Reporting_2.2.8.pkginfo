@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>blocking_applications</key>
+	<array>
+		<string>Microsoft Word</string>
+		<string>Microsoft Excel</string>
+		<string>Microsoft Outlook</string>
+		<string>Microsoft PowerPoint</string>
+		<string>Microsoft Messenger</string>
+		<string>Microsoft Communicator</string>
+		<string>Remote Desktop Connection</string>
+		<string>Microsoft Lync</string>
+	</array>
+	<key>catalogs</key>
+	<array>
+		<string>test</string>
+	</array>
+	<key>description</key>
+	<string>This update to Microsoft Error Reporting for Mac is part of Microsoft's continued effort to improve software reliability by collecting information when an application experiences a serious error.</string>
+	<key>display_name</key>
+	<string>Microsoft Error Reporting for Mac 2.2.8 Update</string>
+	<key>installed_size</key>
+	<integer>3373</integer>
+	<key>installer_item_hash</key>
+	<string>683ec66dbb848ee2be09e5c604fa21b1c22ebed6a93b2bee58df2a30abc7a101</string>
+	<key>installer_item_location</key>
+	<string>Microsoft/MS_Error_Reporting_2.2.8.dmg</string>
+	<key>installer_item_size</key>
+	<integer>1525</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.8</string>
+	<key>name</key>
+	<string>MS Error Reporting 2.2.8 Update</string>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.microsoft.error_reporting</string>
+			<key>CFBundleName</key>
+			<string>Microsoft Error Reporting</string>
+			<key>CFBundleShortVersionString</key>
+			<string>2.2.8</string>
+			<key>path</key>
+			<string>/Library/Application Support/Microsoft/MERP2.0/Microsoft Error Reporting.app</string>
+			<key>type</key>
+			<string>application</string>
+		</dict>
+	</array>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>merp_all_errorreporting.pkg</string>
+			<key>installed_size</key>
+			<integer>3373</integer>
+			<key>packageid</key>
+			<string>com.microsoft.merp.all.errorreporting.pkg.2.2.8</string>
+			<key>version</key>
+			<string>2.2.8</string>
+		</dict>
+	</array>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>2.2.8</string>
+	<key>update_for</key>
+	<array>
+	  <string>Microsoft Office 2011</string>
+	</array>
+	<key>requires</key>
+	<array>
+	  <string>Microsoft Office 2011</string>
+	</array>
+</dict>
+</plist>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>blocking_applications</key>
+	<array>
+		<string>Firefox</string>
+		<string>Safari</string>
+		<string>Chrome</string>
+	</array>
+	<key>catalogs</key>
+	<array>
+		<string>test</string>
+	</array>
+	<key>description</key>
+	<string>Microsoft Silverlight is a cross-browser, cross-platform plug-in for delivering the next generation of .NET based media experiences and rich interactive applications for the Web. Silverlight offers a flexible programming model that supports AJAX, VB, C#, Python, and Ruby, and integrates with existing Web applications. Silverlight supports fast, cost-effective delivery of high-quality video to all major browsers running on the Mac OS X or Windows.</string>
+	<key>display_name</key>
+	<string>Microsoft® Silverlight™ Browser Plug-In</string>
+	<key>installed_size</key>
+	<integer>99420</integer>
+	<key>installer_item_hash</key>
+	<string>2bf9c53b92774728d1683274790cc4cc3009c3ad6620c340cccbe705cca36737</string>
+	<key>installer_item_location</key>
+	<string>Microsoft/Silverlight_5.0.61118.0.dmg</string>
+	<key>installer_item_size</key>
+	<integer>14564</integer>
+	<key>minimum_os_version</key>
+	<string>10.4.11</string>
+	<key>name</key>
+	<string>Silverlight</string>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.microsoft.SilverlightPlugin</string>
+			<key>WebPluginName</key>
+			<string>Silverlight Plug-In</string>
+			<key>CFBundleShortVersionString</key>
+			<string>5.0.61118.0</string>
+			<key>path</key>
+			<string>/Library/Internet Plug-Ins/Silverlight.plugin</string>
+			<key>type</key>
+			<string>application</string>
+		</dict>
+	</array>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>Silverlight.pkg</string>
+			<key>installed_size</key>
+			<integer>99420</integer>
+			<key>packageid</key>
+			<string>com.microsoft.SilverlightInstaller</string>
+			<key>version</key>
+			<string>5.0.61118.0</string>
+		</dict>
+	</array>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>5.0.61118.0</string>
+</dict>
+</plist>
+
