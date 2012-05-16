@@ -20,7 +20,7 @@
 		<string>test</string>
 	</array>
 	<key>description</key>
-	<string>This update to Microsoft Error Reporting for Mac is part of Microsoft's continued effort to improve software reliability by collecting information when an application experiences a serious error.</string>
+	<string>This update to Microsoft Error Reporting for Mac is part of Microsoft&apos;s continued effort to improve software reliability by collecting information when an application experiences a serious error.</string>
 	<key>display_name</key>
 	<string>Microsoft Error Reporting for Mac 2.2.8 Update</string>
 	<key>installed_size</key>
@@ -32,7 +32,7 @@
 	<key>installer_item_size</key>
 	<integer>1525</integer>
 	<key>minimum_os_version</key>
-	<string>10.5.8</string>
+	<string>10.4.9</string>
 	<key>name</key>
 	<string>MS Error Reporting 2.2.8 Update</string>
 	<key>installs</key>
@@ -71,12 +71,11 @@
 	<string>2.2.8</string>
 	<key>update_for</key>
 	<array>
-	  <string>Microsoft Office 2011</string>
+		<string>Microsoft Office 2011</string>
 	</array>
 	<key>requires</key>
 	<array>
-	  <string>Microsoft Office 2011</string>
+		<string>Microsoft Office 2011</string>
 	</array>
 </dict>
 </plist>
-

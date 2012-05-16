@@ -20,8 +20,19 @@
 	<string>AutoUpdate_233.dmg</string>
 	<key>installer_item_size</key>
 	<integer>864</integer>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>plist</string>
+			<key>path</key>
+			<string>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/Info.plist</string>
+			<key>CFBundleShortVersionString</key>
+			<string>2.3.3</string>
+		</dict>
+	</array>
 	<key>minimum_os_version</key>
-	<string>10.4.0</string>
+	<string>10.4.9</string>
 	<key>name</key>
 	<string>AutoUpdate Installer</string>
 	<key>receipts</key>
@@ -45,4 +56,3 @@
 	<string>2.3.3</string>
 </dict>
 </plist>
-
